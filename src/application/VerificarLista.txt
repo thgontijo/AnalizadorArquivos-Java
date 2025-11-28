@@ -1,0 +1,92 @@
+alex123@gmail.com (11) 98765-4321
+maria.silva@outlook.com, 21 3456-7890
+joao@@gmail.com, (31) 99999-999
+carla.teste@empresa, 99999-9999
+pedro_2024@devlab.net, (41) 97854-2211
+teste@.com, (51) 91234-4321
+ana_souza@yahoo.com, 55 11987654321
+email_invalido.com, telefone_invalido
+bruno-mail@techmail.io, (21) 95432-1122
+henrique@outlook, (11) 8888-7777
+roberta123@empresa.com.br, (31) 97777-6666
+lucas99@gmail..com, (41) 1234-56789
+fernanda@devlab.net, (51) 99888-7766
+@email.com, 1134567890
+paulo_santos@techmail.io, (21) 94002-8922
+carol@teste, (31) 22222-1111
+gustavo.moura@gmail.com, (11) 90123-4567
+rafael@@outlook.com, 0000000000
+aline-soares@yahoo.com, (21) 99999-9999
+marta.sousa@empresa.com.br, 11999999999
+jorge@email, (51) 99999-0000
+tiago.2024@techmail.io, (41) 98888-3333
+nome@dominio..com, (11) 9876-54321
+juliana_souza@gmail.com, (21) 95433-2100
+teste@teste@test.com, (31) 95555-4444
+anderson@devlab.net, (51) 90000-1111
+caroline@empresa.com, (21) 9999-8888
+marcio#gmail.com, (41) 97000-2222
+victor_123@outlook.com.br, telefone
+samira@techmail.io, (31) 92000-3003
+email@sem_tld, (11) 93333-4444
+debora.oliveira@gmail.com, (41) 95555-2222
+nome.sobrenome@empresa..com, (51) 98888-1111
+teste@dominio, (21) 97777-0909
+helena2024@devlab.net, 1133334444
+marcela_santos@yahoo.com, (31) 90001-9191
+email_incorreto@, (11) 91111-2222
+carlos.monteiro@techmail.io, (21) 90002-1122
+silvia@outlook.com, (41) 94321-3333
+fernando_88@gmail, (51) 98888-7700
+patricia@mail.com, (21) 92345-6789
+andre@empresa.com, (11) 97878-1234
+nome123@@dominio.com, (31) 9888-1234
+isabel@devlab.net, 55988887777
+cicero_silva@gmail.com, (41) 91010-1010
+teste@mail, (51) 90009-4444
+ricardo.moreira@techmail.io, (21) 98888-4545
+duda.santos@empresa.com.br, (31) 99991-0000
+thiago@email@email, (11) 91212-1212
+julio_cesar@yahoo.com, (21) 95555-8989
+carla@techmail, (41) 97777-7878
+marina.souza@gmail.com, 11900001111
+invalido@@mail.com, (51) 94444-3333
+bruna_oliveira@devlab.net, (11) 96543-2100
+email@com, (21) 95555-2323
+leo_siqueira@empresa.com.br, (31) 92222-4444
+andre.lima@yahoo.com, (41) 98888-0000
+nome!!@gmail.com, (51) 95555-9898
+paula_monteiro@outlook.com, 21977778888
+sergio@empresa, (21) 90008-7007
+tania_silva@gmail.com, (31) 90234-8888
+marialuiza@devlab.net, (41) 96666-7777
+teste.gmail.com, (11) 93333-2002
+eduardo@techmail.io, (51) 96666-2222
+bianca_santos@yahoo.com, (21) 97676-5656
+jose@empresa.com.br, telefone_invalido
+nome@dominio@outro, (31) 98888-2211
+antonio123@gmail.com, (41) 92121-3232
+daniela.rocha@techmail.io, (21) 95454-9898
+vinicius@outlook.com.br, (51) 92222-1122
+email-sem-arroba.com, (31) 94444-1212
+aline_rosa@devlab.net, (11) 99999-1230
+pedro@mail, (21) 97777-4040
+camila.alves@gmail.com, (41) 95555-0033
+marcelo@empresa.com.br, (51) 98888-1122
+invalido@dominio.c, (21) 94444-0000
+fabio_teste@yahoo.com, (31) 95555-4440
+solange.souza@gmail.com, (41) 91111-3322
+nome@@teste.com, (51) 98888-2210
+rebeca@devlab.net, (21) 93333-2211
+caio.martins@techmail.io, (31) 90090-9090
+juliana@empresa..com, (11) 99991-4455
+daniel.rodrigues@gmail.com, 21900008888
+email@invalido, (41) 95555-6666
+karen_oliveira@outlook.com, (31) 97777-5511
+rodrigo@mail.com.br, (51) 98888-7654
+ana.paula@devlab.net, (21) 92222-3333
+email.com@, (31) 96666-9898
+thiago.lopes@gmail.com, (11) 95555-1234
+felipe@empresa.com, (41) 97777-1111
+carolina@email@email.com, (51) 93333-5544
+livia.teste@yahoo.com, (21) 94444-1122
