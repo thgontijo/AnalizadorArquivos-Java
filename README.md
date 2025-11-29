@@ -1,5 +1,4 @@
-# ☕ Java File Analyzer
-
+# ☕ Analizador Arquivos Java
 > Projeto em Java para analisar arquivos fornecidos pelo usuário, usando regex, contagem de palavras e caracteres, extração de emails e telefones, manipulação de arquivos e tratamento de exceções relacionadas a I/O.
 
 ---
